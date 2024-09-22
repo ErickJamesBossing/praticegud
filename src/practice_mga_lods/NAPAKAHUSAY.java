@@ -3,7 +3,7 @@ public class NAPAKAHUSAY {
     public static void main (String [] args){
         int x = 20;
         if (x < 19){
-            System.out.println("AKO PABA?");
+            System.out.println("AKO PABA AKO?");
         } else if (x < 19){
             System.out.println("AKO PARIN BA?");
         }else{

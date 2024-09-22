@@ -2,9 +2,9 @@ package practice_mga_lods;
 public class ACTIVITY2 {
     public static void main(String [] args){
         int [][] num = {
-            {10,11,12},
-            {13,14,15},
-            {16,17,18}
+            {100,110,120},
+            {130,140,150},
+            {160,170,180}
         };
         
         int Sum=0;
